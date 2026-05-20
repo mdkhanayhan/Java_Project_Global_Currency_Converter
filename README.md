@@ -35,11 +35,11 @@ public class Main {
     // Securely encapsulated static conversion engine
     static class ConverterEngine {
 
-        // Immutable static exchange rates (Base: USD)
-        static final double USD_TO_INR = 83.5;
-        static final double USD_TO_EUR = 0.92;
-        static final double USD_TO_GBP = 0.79;
-        static final double USD_TO_JPY = 149.5;
+        // Immutable static exchange rates (Base: USD) - Live Rates May 2026
+        static final double USD_TO_INR = 96.57;
+        static final double USD_TO_EUR = 0.86;
+        static final double USD_TO_GBP = 0.75;
+        static final double USD_TO_JPY = 159.04;
 
         /**
          * Transforms a given USD amount into a targeted currency.
