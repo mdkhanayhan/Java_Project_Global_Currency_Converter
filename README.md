@@ -78,3 +78,10 @@ public class Main {
         sc.close();
     }
 }
+```
+## Output Screenshots
+<img width="593" height="76" alt="Screenshot 2026-05-20 at 6 26 52 AM" src="https://github.com/user-attachments/assets/624f5722-9c7e-4ce2-ac98-21039b9396b5" />
+<img width="613" height="78" alt="Screenshot 2026-05-20 at 6 28 24 AM" src="https://github.com/user-attachments/assets/70e7145c-1079-4c46-a0d4-823162575a03" />
+<img width="587" height="80" alt="Screenshot 2026-05-20 at 6 27 46 AM" src="https://github.com/user-attachments/assets/d29fecf9-e97e-4cc0-ae41-7e1ed48efd06" />
+
+
