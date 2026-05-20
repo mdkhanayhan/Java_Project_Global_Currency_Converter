@@ -35,7 +35,6 @@ public class Main {
     // Securely encapsulated static conversion engine
     static class ConverterEngine {
 
-        // Immutable static exchange rates (Base: USD) - Live Rates May 2026
         static final double USD_TO_INR = 96.57;
         static final double USD_TO_EUR = 0.86;
         static final double USD_TO_GBP = 0.75;
